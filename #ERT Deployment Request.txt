@@ -1,0 +1,41 @@
+#ERT Deployment Request
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]EMERGENCY RESPONSE TEAM REQUEST[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]NanoTrasen Representative Communication[/bold][/color]
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Formal request submitted by the NanoTrasen Representative stationed onboard. This document requests Central Command authorization for deployment of an Emergency Response Team (ERT) to assist station operations.
+──────────────────────────────────────────
+Approval from Central Command is required prior to deployment.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NANOTRASEN REPRESENTATIVE[/head]
+[bold]Name:[/bold] [mono]Tyrone Labubu[/mono]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REQUESTED ACTION[/head]
+[bold]Requested Asset:[/bold] [mono]Emergency Response Team (ERT)[/mono]
+[bold]Deployment Type:[/bold] [mono][/mono]
+[bold]Target Authority:[/bold] [mono]Central Command[/mono]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]JUSTIFICATION FOR DEPLOYMENT[/head]
+──────────────────────────────────────────
+• Station response capacity is reduced / overwhelmed / insufficient
+• Active threat escalation beyond standard Security handling
+• Critical infrastructure / crew survival risk present
+• Local command structure requires external reinforcement
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]EXPECTED ERT FUNCTION[/head]
+──────────────────────────────────────────
+• Reinforcement of critical departments
+• Direct intervention in active threats
+• Restoration of operational stability
+• Support / replacement of overwhelmed personnel
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NTR RECOMMENDATION[/head]
+──────────────────────────────────────────
+Deployment of an Emergency Response Team is recommended to stabilize current station conditions and prevent further escalation.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SIGNAL TO CENTRAL COMMAND[/head]
+──────────────────────────────────────────
+Awaiting approval, denial, or further instruction.
+
+Sincerely,
+Tyrone Labubu
+NanoTrasen Representative[/mono]
