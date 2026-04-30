@@ -1,0 +1,22 @@
+#Execution Authorization
+[color=#8b0000]█▄ █  ▀█▀[/color]  [head=3]EXECUTION AUTHORIZATION[/head]
+[color=#8b0000]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Capital Punishment Authorization[/bold][/color]
+[color=#8b0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Used to authorize the application of capital punishment under Space Law. This document confirms that the subject has committed severe violations warranting execution and that all required command-level approvals have been obtained.
+[color=#8b0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SUBJECT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#8b0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]JUSTIFICATION[/head]
+[color=DimGray][italic]Provide a concise summary of the subject’s actions and explain why capital punishment is necessary. Include threat level, impact on station safety, and why lesser penalties are insufficient.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#8b0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]AUTHORIZATION STATEMENT[/head]
+──────────────────────────────────────────
+The undersigned acknowledges that this action is taken in accordance with Space Law and is deemed necessary for the safety of the station and its crew.
+[color=#8b0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CAPTAIN'S AUTHORIZATION[/head]
+──────────────────────────────────────────
+This authorization is valid only when approved and stamped by the Captain. Unauthorized or incomplete documents are void.

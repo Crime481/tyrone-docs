@@ -1,0 +1,30 @@
+#Warrant Authorization
+[color=#cb0000]█▄ █  ▀█▀[/color]  [head=3]WARRANT AUTHORIZATION[/head]
+[color=#cb0000]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]NT Security Document[/bold][/color]
+[color=#cb0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Authorizes Security or Command to take specific actions against a crew member or department, such as arrest, search, or investigation. Must be approved by the designated authority to be valid under Space Law.
+[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SUBJECT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+──────────────────────────────────────────
+[head=3]AUTHORIZING AUTHORITY[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]AUTHORIZED ACTION[/head]
+──────────────────────────────────────────
+\[  ] Search of Person
+\[  ] Search of Property / Area
+\[  ] Seizure of Property
+\[  ] Detainment for Questioning
+\[  ] Other [color=DimGray][italic](specify)[/italic][/color]: 
+[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]JUSTIFICATION[/head]
+[color=DimGray][italic]Provide supporting justification for this warrant. Include observed behavior, suspected violations, and any evidence supporting the requested action.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#cb0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]AUTHORIZING AUTHORITY[/head]
+──────────────────────────────────────────
+This warrant is valid only when signed and stamped by appropriate Security / Command personnel. Unauthorized use is a violation of Space Law.

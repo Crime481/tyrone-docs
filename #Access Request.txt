@@ -1,0 +1,22 @@
+#Access Request
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]ACCESS REQUEST[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Restricted Access Form[/bold][/color] 
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Used to request temporary or permanent authorization for entry to restricted areas, use of equipment, or performance of special duties. Ensures Command or relevant department evaluates and approves access according to station security protocols.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]APPLICANT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REQUESTED ACCESS[/head]
+──────────────────────────────────────────
+• 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REASON FOR REQUEST[/head]
+[color=DimGray][italic]Provide a clear explanation for why the transfer or application is being requested.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ACKNOWLEDGEMENT[/head]
+──────────────────────────────────────────
+The undersigned acknowledge that the above access is granted under station protocols and must be used in accordance with all relevant rules. Unauthorized use may result in disciplinary action.

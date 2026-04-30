@@ -1,0 +1,23 @@
+#Witness Statement
+[color=#a0554f]█▄ █  ▀█▀[/color]  [head=3]WITNESS STATEMENT[/head]
+[color=#a0554f]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Legal Record Form[/bold][/color]
+[color=#a0554f]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This document is used to record an account provided by a witness related to a case, complaint, or appeal. Submission of this statement does not imply fault or responsibility.
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]WITNESS INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]STATEMENT[/head]
+[color=DimGray][italic]Provide a factual account of what was observed. Include time, location, and actions witnessed. Avoid speculation or assumptions.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ADDITIONAL INFORMATION[/head]
+[color=DimGray][italic]Notes, context, or clarification.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ACKNOWLEDGEMENT[/head]
+──────────────────────────────────────────
+I affirm that this statement reflects my observations to the best of my knowledge.

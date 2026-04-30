@@ -1,0 +1,22 @@
+#Job Transfer/Application
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]JOB TRANSFER / APPLICATION[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Job Application Form[/bold][/color] 
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Used to request a transfer to a different position or to apply for a new role on station. This form provides Command with the necessary information to evaluate the applicant’s suitability and make an informed decision. 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]APPLICANT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Current Job Title:[/bold] 
+──────────────────────────────────────────
+[head=3]REQUESTED POSITION[/head] 
+[bold]New Job Title:[/bold] 
+[bold]Department:[/bold] 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REASON FOR REQUEST[/head]
+[color=DimGray][italic]Provide a clear explanation for why the transfer or application is being requested.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ACKNOWLEDGEMENT & AUTHORIZATION[/head]
+──────────────────────────────────────────
+This request must be reviewed and approved by the head of the requested department. Final authorization is granted by the Head of Personnel or Captain. Requests without required signatures and stamps may be denied.

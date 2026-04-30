@@ -1,0 +1,30 @@
+#Construction Permit Request
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]CONSTRUCTION PERMIT REQUEST[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Construction Permit Authorization[/bold][/color] 
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This document is used to record all bookkeeping tasks completed by personnel. Accurate and detailed entries ensure proper station accounting and audit compliance. All entries must be submitted to the supervisor for review.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]APPLICANT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]PROJECT OVERVIEW[/head] 
+[color=DimGray][italic]Provide a clear summary of the proposed construction or modification.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]AUTHORIZATION REQUIREMENT[/head]
+──────────────────────────────────────────
+This request is only valid if reviewed and approved by following personnel:
+[bold]• [color=#134975]Captain[/color] or [color=#f39f27]Chief Engineer[/color] for non-departmental locations
+• [color=#9fed58]Department Head[/color] affected by the construction[/bold]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]FINAL STATEMENT[/head]
+──────────────────────────────────────────
+Unauthorized or non-compliant construction may be halted or dismantled at the discretion of Command or Engineering. Approval does not exempt the applicant from adherence to station regulations.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ACKNOWLEDGEMENT[/head]
+──────────────────────────────────────────
+I confirm that all provided information is accurate and that all required departments have been informed prior to submission.
+• I accept responsibility for the construction project
+• I will comply with all safety and station regulations

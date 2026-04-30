@@ -1,0 +1,16 @@
+#NTR Presence Notice
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]NTR PRESENCE NOTICE[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]NanoTrasen Representative Communication[/bold][/color]
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Used by the NanoTrasen Representative to formally announce their presence on station.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NANOTRASEN REPRESENTATIVE[/head]
+[bold]Name:[/bold] [mono]Tyrone Labubu[/mono]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]MESSAGE[/head] 
+──────────────────────────────────────────
+[mono]NanoTrasen Representative Tyrone Labubu has arrived on station and begun formal observation of operations.
+
+All findings will be documented and relayed as required.
+
+Central Command may contact directly should additional information, clarification, or action be required.[/mono]

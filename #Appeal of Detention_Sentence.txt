@@ -1,0 +1,47 @@
+#Detention Appeal Form
+[color=#a0554f]█▄ █  ▀█▀[/color]  [head=3]DETENTION APPEAL FORM[/head]
+[color=#a0554f]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Legal Appeal Form[/bold][/color]
+[color=#a0554f]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Used to formally appeal a detention, sentence, or detention conditions. Filing triggers review by Command or CC.
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]PRISONER INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+──────────────────────────────────────────
+[head=3]LEGAL REPRESENTATIVE (IF APPLICABLE)[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] Lawyer
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]BASIS FOR APPEAL[/head]
+[color=DimGray][italic]Select all that apply.[/italic][/color]
+──────────────────────────────────────────
+\[  ] Wrongful arrest or detention
+\[  ] Excessive sentence
+\[  ] Misconduct by Security
+\[  ] Improper procedure followed
+\[  ] Unacceptable detention conditions
+\[  ] Other [color=DimGray][italic](specify)[/italic][/color]:
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]STATEMENT[/head]
+[color=DimGray][italic]Provide a concise summary of the events leading to your detention or sentence. Include relevant actions, context, and reasoning for why the appeal is being filed.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]EVIDENCE OR SUPPORTING INFORMATION[/head]
+[color=DimGray][italic]List physical evidence, logs, recordings, witnesses, or injuries relevant to the report.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REQUESTED OUTCOME[/head]
+[color=DimGray][italic]Select all that apply.[/italic][/color]
+──────────────────────────────────────────
+\[  ] Immediate release
+\[  ] Reduction of sentence
+\[  ] Review by Command
+\[  ] Change in detention conditions
+\[  ] Correction of record
+\[  ] Other [color=DimGray][italic](specify)[/italic][/color]:
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ACKNOWLEDGEMENT[/head]
+──────────────────────────────────────────
+I affirm that the information provided in this appeal is accurate to the best of my knowledge, and I understand that submission will initiate review by Command or CC in case of transit prisoners.

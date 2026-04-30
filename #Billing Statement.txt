@@ -1,0 +1,31 @@
+#Billing Statement
+[color=#a0554f]█▄ █  ▀█▀[/color]  [head=3]BILLING STATEMENT[/head]
+[color=#a0554f]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Authorized Legal Notice[/bold][/color]
+[color=#a0554f]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This document formally records payment owed for legal services rendered by a licensed station attorney.
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CLIENT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+──────────────────────────────────────────
+[head=3]ATTORNEY INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SERVICES & CHARGES[/head]
+[color=DimGray][italic]List each service provided along with its cost.[/italic][/color]
+──────────────────────────────────────────
+[bold]BASE LEGAL FEE[/bold] — 500 spesos
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NOTES[/head]
+[color=DimGray][italic]Optional (payment deadline, agreed price, special conditions)[/italic][/color]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]FINAL STATEMENT[/head]
+──────────────────────────────────────────
+Payment is expected in a timely manner. Failure to comply may result in denial of future legal services.
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ACKNOWLEDGEMENT[/head]
+──────────────────────────────────────────
+I acknowledge that I have received legal services and understand the payment obligation listed above.

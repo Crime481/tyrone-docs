@@ -1,0 +1,57 @@
+#Formal Complaint
+[color=#a0554f]█▄ █  ▀█▀[/color]  [head=3]FORMAL COMPLAINT[/head]
+[color=#a0554f]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]NanoTrasen Document[/bold][/color]
+[color=#a0554f]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This document is used to formally report incidents, misconduct, or disputes occurring on station. Submissions may be reviewed by Command and can lead to investigation or disciplinary action.
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REPORTING PARTY[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+──────────────────────────────────────────
+[head=3]SUBJECT OF COMPLAINT[/head]
+[bold]Name:[/bold] 
+[bold]Job Title / Department:[/bold] 
+──────────────────────────────────────────
+[head=3]LEGAL REPRESENTATIVE (IF APPLICABLE)[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] Lawyer
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]TYPE OF COMPLAINT[/head]
+[color=DimGray][italic]Select all that apply.[/italic][/color]
+──────────────────────────────────────────
+\[  ] Mishandling of procedure
+\[  ] Misconduct / unprofessional behavior
+\[  ] Abuse of authority
+\[  ] Unlawful detainment or search
+\[  ] Neglect of duty
+\[  ] Violation of Space Law or SOP
+\[  ] Other [color=DimGray][italic](specify)[/italic][/color]:
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]INCIDENT SUMMARY[/head]
+[color=DimGray][italic]Provide a concise description of the incident, including time, location and action taken[/italic][/color]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]Witnesses or Involved Parties[/head]
+[color=DimGray][italic]List any crew members who observed or were involved in the incident.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]Evidence or Supporting Information[/head]
+[color=DimGray][italic]List physical evidence, logs, recordings, or injuries relevant to the report.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]Requested Action[/head]
+[color=DimGray][italic]What would you like to happen as a result of this report?[/italic][/color]
+──────────────────────────────────────────
+\[  ] Investigation by Command
+\[  ] Mediation between involved parties
+\[  ] Clarification of proper procedure
+\[  ] Formal note on record
+\[  ] Legal review or escalation
+\[  ] Other [color=DimGray][italic](specify)[/italic][/color]:
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]Acknowledgement[/head]
+──────────────────────────────────────────
+I affirm that the information provided above is accurate to the best of my knowledge.

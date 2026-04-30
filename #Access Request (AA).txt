@@ -1,0 +1,58 @@
+#Access Request (AA)
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]ALL ACCESS REQUEST[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Restricted Access Form[/bold][/color] 
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Used to request full station access (All Access). Due to the extreme level of clearance granted, this request is subject to maximum review standards. Approval is rarely granted.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]APPLICANT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CURRENT ACCESS OVERVIEW[/head] 
+[color=DimGray][italic]List all current access permissions held.[/italic][/color]
+──────────────────────────────────────────
+• 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]JUSTIFICATION FOR ALL ACCESS[/head]
+[color=DimGray][italic]Provide a comprehensive explanation for why full station access is required. Include operational necessity, expected duration, and justification for access to all departments without restriction.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SELF-CERTIFIED ELIGIBILITY[/head]
+──────────────────────────────────────────
+The applicant must confirm all of the following:
+
+\[  ] I have no criminal record
+\[  ] I am not under investigation
+\[  ] I have no history of misconduct
+\[  ] I am fit to hold unrestricted access
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]DEPARTMENTAL AWARENESS CONFIRMATION[/head]
+──────────────────────────────────────────
+The applicant must independently inform all relevant departments of this request.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]RISK ACKNOWLEDGEMENT[/head]
+──────────────────────────────────────────
+The applicant must confirm:
+
+\[  ] I understand that All Access grants unrestricted entry to all departments
+\[  ] I accept full responsibility for any misuse
+\[  ] I understand misuse may result in immediate disciplinary action
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]AUTHORIZATION REQUIREMENT[/head]
+──────────────────────────────────────────
+This request is only valid if properly signed and stamped by all department heads and command staff prior to submission.
+
+Required Authorization:
+[bold]Head of Personnel
+Captain
+Head of Security
+All Department Heads[/bold]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]FINAL STATEMENT[/head]
+──────────────────────────────────────────
+Forms that are incomplete, improperly documented, or missing required authorization will be denied without review. Submission does not guarantee consideration or approval.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ACKNOWLEDGEMENT[/head]
+──────────────────────────────────────────
+I confirm that all provided information is accurate and that all required steps have been completed prior to submission.
