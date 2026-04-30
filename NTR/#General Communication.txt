@@ -5,7 +5,7 @@
 Communication form used by the NanoTrasen Representative on board the station.
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]NANOTRASEN REPRESENTATIVE[/head]
-[bold]Name:[/bold] [mono]Tyrone Labubu[/mono]
+[bold]Name:[/bold] [mono]Your Name[/mono]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]SUBJECT:[/head] [mono][/mono]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
@@ -16,5 +16,5 @@ Communication form used by the NanoTrasen Representative on board the station.
 
 
 Sincerely,
-Tyrone Labubu
+Your Name
 NanoTrasen Representative[/mono]
