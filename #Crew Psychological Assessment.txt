@@ -1,0 +1,31 @@
+#Crew Psychological Assessment
+[color=#5b97bc]█▄ █  ▀█▀[/color]  [head=3]CREW PSYCHOLOGICAL ASSESSMENT[/head]
+[color=#5b97bc]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Psychological Evaluation Report[/bold][/color]
+[color=#5b97bc]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Document used to assess a crew member’s current psychological state, stress levels, and behavioral observations. Initiates follow-up or counseling as required.
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]INDIVIDUAL INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REASON FOR ASSESSMENT[/head]
+──────────────────────────────────────────
+\[  ] Routine Check
+\[  ] Post-Incident
+\[  ] Requested by Crew
+\[  ] Requested by Command
+\[  ] Other [color=DimGray][italic](specify)[/italic][/color]:
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]BEHAVIORAL OBSERVATIONS[/head]
+[color=DimGray][italic]Describe demeanor, stress indicators, emotional state, and relevant behavior.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]RECOMMENDATION / SUPPORT PLAN[/head]
+[color=DimGray][italic]Suggested interventions, counseling, monitoring, or other actions.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]Acknowledgement[/head]
+──────────────────────────────────────────
+I affirm that the information provided above is accurate to the best of my knowledge.
