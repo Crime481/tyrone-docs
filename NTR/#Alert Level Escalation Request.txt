@@ -7,7 +7,7 @@ Formal request submitted by the NanoTrasen Representative stationed onboard. Thi
 Approval is required from Central Command. This request does not constitute activation.
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]NANOTRASEN REPRESENTATIVE[/head]
-[bold]Name:[/bold] [mono]Tyrone Labubu[/mono]
+[bold]Name:[/bold] [mono]Your Name[/mono]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]REQUESTED ACTION[/head]
 [bold]Requested Alert Level:[/bold] [color=#db7093][mono]GAMMA[/mono][/color]
