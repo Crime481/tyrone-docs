@@ -1,0 +1,29 @@
+#Plea Agreement
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]PLEA AGREEMENT[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Legal Agreement Record[/bold][/color] 
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This document establishes a negotiated agreement between the accused and Security or Command, allowing modification of charges or sentencing in exchange for cooperation or admission of guilt.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]DEFENDANT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ORIGINAL CHARGES[/head]
+[color=DimGray][italic]List all charges currently applied to the defendant.[/italic][/color]
+──────────────────────────────────────────
+• 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]AGREEMENT TERMS[/head]
+──────────────────────────────────────────
+\[  ] Confession to listed charges
+\[  ] Cooperation with Security / Command
+\[  ] Other [color=DimGray][italic](specify)[/italic][/color]: 
+──────────────────────────────────────────
+[bold]In exchange, the station agrees to:[/bold]
+\[  ] Reduced sentence
+\[  ] Dropped or modified charges
+\[  ] Other [color=DimGray][italic](specify)[/italic][/color]: 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]AUTHORIZATION[/head]
+──────────────────────────────────────────
+This agreement is considered valid only upon acknowledgment by all involved parties.
