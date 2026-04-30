@@ -5,10 +5,10 @@
                                     [color=DimGray][head=2]Need a lawyer?[/head][/color]
                         [italic][color=DimGray]Detained? Charged? Being questioned?[/color][/italic]
 
-               [head=1]BETTER CALL LABUBU[/head]
+               [head=1]BETTER CALL NAME[/head]
                            [italic][color=DimGray]Your defense starts before the trial.[/color][/italic]
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[bold]Attorney Tyrone Labubu[/bold] specializes in defense, dispute resolution, and holding Security accountable.
+[bold]Attorney Your Name Here[/bold] specializes in defense, dispute resolution, and holding Security accountable.
 ──────────────────────────────────────────
 [bold]Services include:[/bold]
 • Defense against wrongful or excessive charges
