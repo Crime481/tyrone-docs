@@ -1,0 +1,23 @@
+#Surgical Procedure Request
+[color=#5b97bc]█▄ █  ▀█▀[/color]  [head=3]SURGICAL PROCEDURE REQUEST[/head]
+[color=#5b97bc]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Medical Authorization Form[/bold][/color]
+[color=#5b97bc]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This document is used to request and authorize surgical intervention for a crew member.
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]PATIENT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]PROCEDURE DETAILS[/head]
+──────────────────────────────────────────
+[bold]Requested Procedure:[/bold] 
+[bold]Reason:[/bold] 
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]RISK ASSESSMENT[/head]
+──────────────────────────────────────────
+[bold]Expected Outcome:[/bold] 
+[bold]Potential Complications:[/bold] 
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CONSENT[/head]
+──────────────────────────────────────────
+Patient acknowledgement of procedure and associated risks.

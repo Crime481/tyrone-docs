@@ -1,0 +1,22 @@
+#Death Certificate
+[color=#5b97bc]█▄ █  ▀█▀[/color]  [head=3]DEATH CERTIFICATE[/head]
+[color=#5b97bc]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Medical Record Document[/bold][/color]
+[color=#5b97bc]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This document records the confirmed death of a crew member and the associated medical findings.
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]DECEASED INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]TIME OF DEATH[/head]
+──────────────────────────────────────────
+[bold]Declared Time:[/bold] 
+[bold]Location:[/bold] 
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CAUSE OF DEATH[/head]
+──────────────────────────────────────────
+[bold]Primary Cause:[/bold] 
+[bold]Contributing Factors:[/bold] 
+[color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]MEDICAL NOTES[/head]
+──────────────────────────────────────────
