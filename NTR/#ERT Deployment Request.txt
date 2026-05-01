@@ -35,7 +35,3 @@ Deployment of an Emergency Response Team is recommended to stabilize current sta
 [head=3]SIGNAL TO CENTRAL COMMAND[/head]
 ──────────────────────────────────────────
 Awaiting approval, denial, or further instruction.
-
-Sincerely,
-Your Name
-NanoTrasen Representative[/mono]

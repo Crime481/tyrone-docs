@@ -1,0 +1,36 @@
+#CBURN Deployment Request
+[color=#134975]█▄ █ ▀█▀[/color] [head=3]CBURN UNIT DEPLOYMENT REQUEST[/head]
+[color=#134975]█ ▀█[color=#eaedde] ░[/color]█[/color][color=#eaedde]░ [/color][color=DimGray][bold]NanoTrasen Representative Communication[/bold][/color]
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Formal request submitted by the NanoTrasen Representative stationed onboard. This document requests Central Command authorization for deployment of a Chemical, Biological, Radiological, and Nuclear (CBURN) response unit.
+──────────────────────────────────────────
+Approval from Central Command is required prior to deployment.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NANOTRASEN REPRESENTATIVE[/head]
+[bold]Name:[/bold] [mono]Your Name[/mono]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REQUESTED ACTION[/head]
+[bold]Requested Asset:[/bold] [mono]CBURN Response Unit[/mono]
+[bold]Target Authority:[/bold] [mono]Central Command[/mono]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]JUSTIFICATION FOR DEPLOYMENT[/head]
+──────────────────────────────────────────
+• Confirmed or suspected biohazard outbreak
+• Rapid infection spread beyond Medical containment
+• Failure of quarantine or containment protocols
+• High risk of station-wide contamination
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]EXPECTED CBURN FUNCTION[/head]
+──────────────────────────────────────────
+• Containment and elimination of biohazard threats
+• Enforcement of quarantine zones
+• Decontamination of affected areas
+• Neutralization of infected personnel if required
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NTR RECOMMENDATION[/head]
+──────────────────────────────────────────
+Deployment of a CBURN unit is recommended to contain the ongoing biohazard threat and prevent total station compromise.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SIGNAL TO CENTRAL COMMAND[/head]
+──────────────────────────────────────────
+Awaiting approval, denial, or further instruction.

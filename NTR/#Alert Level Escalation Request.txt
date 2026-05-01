@@ -34,7 +34,3 @@ Based on on-site assessment, escalation to Gamma is recommended to preserve stat
 [head=3]SIGNAL TO CENTRAL COMMAND[/head]
 ──────────────────────────────────────────
 Awaiting approval, denial, or further instruction.
-
-Sincerely,
-Your Name
-NanoTrasen Representative[/mono]
