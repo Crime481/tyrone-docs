@@ -1,0 +1,27 @@
+#Mech Construction Request
+[color=#c96dbf]█▄ █ ▀█▀[/color] [head=3]MECH CONSTRUCTION REQUEST[/head]
+[color=#c96dbf]█ ▀█[color=#eaedde] ░[/color]█[/color][color=#eaedde]░ [/color][color=DimGray][bold]Science Department Request[/bold][/color]
+[color=#c96dbf]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Request submitted by Science personnel for authorization to construct a mechanized unit. Approval from Security and Command is required prior to construction.
+[color=#c96dbf]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REQUESTING SCIENTIST[/head]
+[bold]Name:[/bold]
+[bold]Position:[/bold]
+[color=#c96dbf]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]MECH DETAILS[/head]
+[bold]Model:[/bold]
+[bold]Intended Use:[/bold]
+[color=#c96dbf]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]JUSTIFICATION[/head]
+[color=DimGray][italic]Reason for construction and expected benefit to station operations.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#c96dbf]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NOTES[/head]
+──────────────────────────────────────────
+
+[color=#c96dbf]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]AUTHORIZATION[/head]
+This request is only valid if stamped and signed by the station's Captain and Head of Security. Authorization may be formally revoked at any time.
+[bold]Captain:[/bold] 
+[bold]Head of Security:[/bold] 

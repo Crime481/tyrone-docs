@@ -9,7 +9,7 @@ Used by the NanoTrasen Representative to formally announce their presence on sta
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]MESSAGE[/head] 
 ──────────────────────────────────────────
-[mono]NanoTrasen Representative Your Name has arrived on station and begun formal observation of operations.
+[mono]Your NanoTrasen Representative has arrived on station and begun formal observation of operations.
 
 All findings will be documented and relayed as required.
 

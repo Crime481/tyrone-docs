@@ -1,0 +1,16 @@
+#Central Command Intern Log
+[color=#009100]▄▀▀ ▄▀▀[/color] [head=3]INTERN PROCESSING LOG[/head]
+[color=#009100]▀▄▄ ▀▄▄[/color] [color=DimGray][bold]Central Command Internal Record[/bold][/color]
+[color=#009100]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=DimGray]Internal log used by Central Command Interns to track transmissions, requests, and ongoing processing activity.[/color]
+[color=#009100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]INTERN[/head]
+[bold]Name:[/bold] [mono][/mono]
+[color=#009100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]LOG ENTRY[/head]
+──────────────────────────────────────────
+[bold]Transmission received from:[/bold] 
+[bold]Subject:[/bold] 
+[bold]Action taken:[/bold]
+\[  ] Logged
+\[  ] Forwarded

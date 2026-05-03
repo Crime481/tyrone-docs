@@ -32,17 +32,17 @@ This document is used to formally report incidents, misconduct, or disputes occu
 ──────────────────────────────────────────
 
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[head=3]Witnesses or Involved Parties[/head]
+[head=3]WITNESSES OR INVOLVED PARTIES[/head]
 [color=DimGray][italic]List any crew members who observed or were involved in the incident.[/italic][/color]
 ──────────────────────────────────────────
 
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[head=3]Evidence or Supporting Information[/head]
+[head=3]EVIDENCE OR SUPPORTING INFORMATION[/head]
 [color=DimGray][italic]List physical evidence, logs, recordings, or injuries relevant to the report.[/italic][/color]
 ──────────────────────────────────────────
 
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[head=3]Requested Action[/head]
+[head=3]REQUESTED ACTION[/head]
 [color=DimGray][italic]What would you like to happen as a result of this report?[/italic][/color]
 ──────────────────────────────────────────
 \[  ] Investigation by Command
@@ -52,6 +52,6 @@ This document is used to formally report incidents, misconduct, or disputes occu
 \[  ] Legal review or escalation
 \[  ] Other [color=DimGray][italic](specify)[/italic][/color]:
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[head=3]Acknowledgement[/head]
+[head=3]ACKNOWLEDGEMENT[/head]
 ──────────────────────────────────────────
 I affirm that the information provided above is accurate to the best of my knowledge.

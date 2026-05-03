@@ -1,0 +1,17 @@
+#Central Command Communication
+[color=#009100]▄▀▀  ▄▀▀[/color]  [head=3]CENTRAL COMMAND COMMUNICATION[/head]
+[color=#009100]▀▄▄  ▀▄▄[/color]  [color=DimGray][bold]Central Command Internal Document[/bold][/color]
+[color=#009100]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[DimGray]Official communication issued by Central Command Staff.[/DimGray]
+[color=#009100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]RECIPIENT[/head]
+[bold]Name:[/bold] [mono][/mono]
+[color=#009100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SUBJECT:[/head] [mono][/mono]
+[color=#009100]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]MESSAGE[/head] 
+──────────────────────────────────────────
+[mono]
+
+Your Name
+CentComm Intern[/mono]
