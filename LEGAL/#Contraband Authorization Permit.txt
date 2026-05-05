@@ -2,13 +2,9 @@
 [color=#134975]█▄ █  ▀█▀[/color]  [head=3]CONTRABAND AUTHORIZATION PERMIT[/head]
 [color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Contraband Permit[/bold][/color] 
 [color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-Used to grant a crew member explicit authorization to possess items or equipment that would normally be considered restricted or contraband. Authorization is conditional and may be revoked at any time by Command.
+Authorization for possession of restricted or contraband items. Approval level is determined by classification tier. Unauthorized possession remains subject to confiscation and disciplinary action.
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]AUTHORIZED INDIVIUAL[/head]
-[bold]Name:[/bold] 
-[bold]Job Title:[/bold] 
-──────────────────────────────────────────
-[head=3]AUTHORIZING AUTHORITY[/head]
 [bold]Name:[/bold] 
 [bold]Job Title:[/bold] 
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
@@ -17,20 +13,35 @@ Used to grant a crew member explicit authorization to possess items or equipment
 ──────────────────────────────────────────
 • 
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[head=3]REASON FOR AUTHORIZATION[/head]
-[color=DimGray][italic]Provide a clear explanation for why this authorization is being granted.[/italic][/color]
+[head=3]JUSTIFICATION[/head]
 ──────────────────────────────────────────
 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CLASSIFICATION[/head]
+──────────────────────────────────────────
+[mono][color=#134975]╔═══════════════════════════════════════════╗
+║ [color=orange]Minor Contraband[/color]                          ║
+║ [color=black]Departmental contraband.[/color]                  ║
+║ [color=red]Requires department head's authorization.[/color] ║
+╠═══════════════════════════════════════════╣
+║ [color=salmon]Major Contraband[/color]                          ║
+║ [color=black]Security and Command items.[/color]               ║
+║ [color=red]Requires HoS/Captain authorization.[/color]       ║
+╠═══════════════════════════════════════════╣
+║ [color=#009100]CC Contraband[/color]                             ║
+║ [color=black]Central Command items.[/color]                    ║
+║ [color=red]Requires CC authorization.[/color]                ║
+╠═══════════════════════════════════════════╣
+║ [color=#ff0000]Syndicate Contraband[/color]                      ║
+║ [color=black]Syndicate or other non-NT items.[/color]          ║
+║ [color=red]Requires CC authorization.[/color]                ║
+╚═══════════════════════════════════════════╝[/color][/mono]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]CONDITIONS OF USE[/head]
 [color=DimGray][italic]Select all that apply.[/italic][/color]
 ──────────────────────────────────────────
-\[  ] Must not be used on crew except in self-defense
-\[  ] Must remain secured when not in use
-\[  ] Subject to inspection by Security at any time
-\[  ] Cannot be transferred to other personnel
-\[  ] Other [color=DimGray][italic](specify)[/italic][/color]: 
+Authorized use is restricted to stated purpose. Item must remain under control of the authorized individual and may be inspected or confiscated at any time by Security or Command.
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]ACKNOWLEDGEMENT[/head]
 ──────────────────────────────────────────
-I acknowledge that I understand the conditions of this authorization. I am aware that misuse, negligence, or violation of these conditions may result in confiscation of authorized items, disciplinary action, or revocation of this permit.
+I acknowledge that this authorization is conditional and may be revoked at any time. Misuse or negligence may result in disciplinary action.
